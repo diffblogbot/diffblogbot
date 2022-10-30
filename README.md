@@ -9,7 +9,7 @@ diff.blog is an aggregator of developer blogs. It was started in 2019 to improve
 
 We also have a weekly email digest, which would email the most popular blog posts in our index to all diff.blog users.
 
-diff.blog index over **1468** blogs at the moment. And our network is growing steadily every day. And we would like to invite you to include your blog in diff.blog as well.
+diff.blog index over **1469** blogs at the moment. And our network is growing steadily every day. And we would like to invite you to include your blog in diff.blog as well.
 
 Adding your blog to diff.blog is super easy and takes less than a minute.
 * Go to https://diff.blog
